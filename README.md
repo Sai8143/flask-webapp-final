@@ -1,8 +1,13 @@
 # 🚀 Flask Web App - DevOps Lab Assignment
 
 ## 👨‍💻 Author
-**Sai Ganesh Chinni**  
-CSE - IARE
+**Chinni Sai Ganesh **
+**R S S SIDDESWARA **
+**H SAKETH **
+  
+
+CSE - F
+IARE
 
 ---
 
