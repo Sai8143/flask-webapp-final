@@ -1,13 +1,9 @@
 # 🚀 Flask Web App - DevOps Lab Assignment
 
 ## 👨‍💻 Author
-**Chinni Sai Ganesh **
-**R S S SIDDESWARA **
-**H SAKETH **
-  
+**Chinni Sai Ganesh     |   R S S SIDDESWARA    |     H SAKETH **  
 
-CSE - F
-IARE
+CSE - F, IARE
 
 ---
 
@@ -67,5 +63,23 @@ http://localhost:5000
 
 "Hello from Sai Ganesh Chinni! 👋🚀"
 
+##🐳 Option 2: Run With Docker
+
+🔨 Build Docker Image:
+ 
+ docker build -t flask-webapp-final .
+
+ ▶️ Run the App:
+ 
+ docker run -p 5000:5000 flask-webapp-final
+
+ Visit: http://localhost:5000
+
+
+##🐋 Bonus: Docker Hub
+ Pull image from Docker Hub and run:
+ 
+ docker pull sai8143/flask-webapp-final
+ docker run -p 5000:5000 sai8143/flask-webapp-final
 
 ## THANK YOU
